@@ -1,0 +1,99 @@
+{
+  "tickets": [
+    {
+      "subject": "Hino Replacement: 0449",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Demmar.Allen@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Team,\n\nThe below units will need the Hino device replaced. Could you please provide me with a location to send the device(s)?\n\n559187\n\nThank you,\nDemmar Allen\nSenior Onboard Connectivity Specialist/Digital Experience\nE demmar.allen@penske.com\n\nPenske\nRental | Leasing | Logistics\n2675 Morgantown Road\nReading, PA 19607 USA\n\nWeb | Blog | Social",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Hino Replacement: 0779",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Demmar.Allen@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Team,\n\nThe below units will need the Hino device replaced. Could you please provide me with a location to send the device(s)?\n\n469230\n\nThank you,\nDemmar Allen\nSenior Onboard Connectivity Specialist/Digital Experience\nE demmar.allen@penske.com\n\nPenske\nRental | Leasing | Logistics\n2675 Morgantown Road\nReading, PA 19607 USA\n\nWeb | Blog | Social",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Hino Replacement: 0941",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Demmar.Allen@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Team,\n\nThe below units will need the Hino device replaced. Could you please provide me with a location to send the device(s)?\n\n471003\n\nThank you,\nDemmar Allen\nSenior Onboard Connectivity Specialist/Digital Experience\nE demmar.allen@penske.com\n\nPenske\nRental | Leasing | Logistics\n2675 Morgantown Road\nReading, PA 19607 USA\n\nWeb | Blog | Social",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Hino Replacement: 6073",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Demmar.Allen@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Team,\n\nThe below units will need the Hino device replaced. Could you please provide me with a location to send the device(s)?\n\n471143\n\nThank you,\nDemmar Allen\nSenior Onboard Connectivity Specialist/Digital Experience\nE demmar.allen@penske.com\n\nPenske\nRental | Leasing | Logistics\n2675 Morgantown Road\nReading, PA 19607 USA\n\nWeb | Blog | Social",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Hino Replacement: 7510",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Demmar.Allen@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Team,\n\nThe below units will need the Hino device replaced. Could you please provide me with a location to send the device(s)?\n\n469220\n\nThank you,\nDemmar Allen\nSenior Onboard Connectivity Specialist/Digital Experience\nE demmar.allen@penske.com\n\nPenske\nRental | Leasing | Logistics\n2675 Morgantown Road\nReading, PA 19607 USA\n\nWeb | Blog | Social",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    }
+  ]
+}

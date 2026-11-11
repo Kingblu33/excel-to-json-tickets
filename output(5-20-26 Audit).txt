@@ -1,0 +1,232 @@
+{
+  "tickets": [
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 33350822486551,
+      "comment": {
+        "body": "Vin: 4V4NC9EH8RN338962\n\nUnit: 197524\n\nSR: 17864691\n\nDistrict: 6580\n\nRO: 156950\n\nSN#: 24597406\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: VOLVO2\n\nTransmitting TSP: SAMSARA\n\nIn-Service Date: 1230407\n\nProfile ID: 9377\n\nProfile Name: VOLVO - System stopped reporting and needs troubleshooting (NOT BLUETOOTH)\n\nService Email: Brian.Nelson@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 18369332204055,
+      "comment": {
+        "body": "Vin: 1FTBR2CG3TKA34560\n\nUnit: 203257\n\nSR: 17828560\n\nDistrict: 5283\n\nRO: 120316\n\nSN#: nan\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: -\n\nTransmitting TSP: -\n\nIn-Service Date: 1260101\n\nProfile ID: 12028\n\nProfile Name: Ford - Telematics\n\nService Email: Service5283@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 33350822486551,
+      "comment": {
+        "body": "Vin: 3HSDZTZR9RN728891\n\nUnit: 209018\n\nSR: 17430166\n\nDistrict: 758\n\nRO: 456292\n\nSN#: nan\n\nTech Note: SEE TECH NOTES                                                                                                                                                                                          _x0000_\n\nVDA Note: FOLLOWED N2 ACTIVATION PROCEDURE - RESULTS - A. - ONE CELLULAR BAR - B. - CELLULAR BAR BLINKING - C. - WI-FI NOT ILLUMINATED - D. - BLUETOOTH NOT ILLUMINATED - E. - GPS IS ILLUMINATED - F. - GPS NOT B_x0000_\n\nInstalled TSP: -\n\nTransmitting TSP: -\n\nIn-Service Date: 1230526\n\nProfile ID: 12330\n\nProfile Name: International - Activation Test Drive\n\nService Email: Service0758@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 18369332204055,
+      "comment": {
+        "body": "Vin: 3HAEUMMLXRL775956\n\nUnit: 209710\n\nSR: 17332548\n\nDistrict: 7750\n\nRO: 272787\n\nSN#: nan\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: -\n\nTransmitting TSP: -\n\nIn-Service Date: 1240105\n\nProfile ID: 12330\n\nProfile Name: International - Activation Test Drive\n\nService Email: Justin.Sheley@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 32531000591127,
+      "comment": {
+        "body": "Vin: 3AKJHHDRXRSUK7442\n\nUnit: 220925\n\nSR: 18140207\n\nDistrict: 6837\n\nRO: 105182\n\nSN#: 3890019312\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: ZONAR\n\nTransmitting TSP: SAMSARA\n\nIn-Service Date: 1230327\n\nProfile ID: 9858\n\nProfile Name: REPAIR FREIGHTLINER CTP SYSTEM\n\nService Email: hayden.warner@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 40047296682007,
+      "comment": {
+        "body": "Vin: 5PVNJ7AL0R5T50071\n\nUnit: 273092\n\nSR: 16732958\n\nDistrict: 685\n\nRO: 390379\n\nSN#: nan\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: HINO\n\nTransmitting TSP: HINO\n\nIn-Service Date: 1240620\n\nProfile ID: 11979\n\nProfile Name: Hino - Telematics\n\nService Email: service0685@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 40047296682007,
+      "comment": {
+        "body": "Vin: JALE5W163R7300616\n\nUnit: 276420\n\nSR: 17534346\n\nDistrict: 408\n\nRO: 489229\n\nSN#: ga68w7fchx8u\n\nTech Note: LOOK AT THE JOB INSTRUCTIONS, AS THEY HAVE BEEN RECENTLY UPDATED. MAKE SURE YOU ARE WORKING ON THE GEOTAB TELEMATIC DEVICE AND NOT THE NEXIQ ELD. RECORD THE DEVICE SERIAL NUMBER BELOW. REGISTER NEW IN_x0000_\n\nVDA Note: nan\n\nInstalled TSP: GEOTAB\n\nTransmitting TSP: GEOTAB\n\nIn-Service Date: 1240118\n\nProfile ID: 9215\n\nProfile Name: Geotab - Telematic needs troubleshooting (NOT BLUETOOTH)\n\nService Email: service0408@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 33350822486551,
+      "comment": {
+        "body": "Vin: 4V4NC9EH7NN289425\n\nUnit: 386940\n\nSR: 17705515\n\nDistrict: 51\n\nRO: 303927\n\nSN#: na\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: VOLVO2\n\nTransmitting TSP: VOLVO\n\nIn-Service Date: 1210305\n\nProfile ID: 9377\n\nProfile Name: VOLVO - System stopped reporting and needs troubleshooting (NOT BLUETOOTH)\n\nService Email: Dwaine.Titus@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 33350822486551,
+      "comment": {
+        "body": "Vin: 1FTBR1X86PKB07603\n\nUnit: 408042\n\nSR: 17735814\n\nDistrict: 44\n\nRO: 240268\n\nSN#: nan\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: -\n\nTransmitting TSP: -\n\nIn-Service Date: 1231106\n\nProfile ID: 12028\n\nProfile Name: Ford - Telematics\n\nService Email: Scott.Carter@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 40047296682007,
+      "comment": {
+        "body": "Vin: 3ALACXFC2NDNM9398\n\nUnit: 423422\n\nSR: 18033999\n\nDistrict: 11\n\nRO: 336091\n\nSN#: 23056773\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: ZONAR\n\nTransmitting TSP: GEOTAB\n\nIn-Service Date: 1211206\n\nProfile ID: 9858\n\nProfile Name: REPAIR FREIGHTLINER CTP SYSTEM\n\nService Email: Jeffrey.Bohler@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 33350822486551,
+      "comment": {
+        "body": "Vin: 1FTBR3U87MKA96235\n\nUnit: 432056\n\nSR: 16676073\n\nDistrict: 7141\n\nRO: 180957\n\nSN#: nan\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: FORD\n\nTransmitting TSP: -\n\nIn-Service Date: 1220131\n\nProfile ID: 12028\n\nProfile Name: Ford - Telematics\n\nService Email: derek.sand@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 33350822486551,
+      "comment": {
+        "body": "Vin: 7GZ37TC72RN011278\n\nUnit: 435126\n\nSR: 18027717\n\nDistrict: 438\n\nRO: 285784\n\nSN#: nan\n\nTech Note: TROUBLESHOOT ONSTAR DEVICE                                                                                                                                                                              _x0000_\n\nVDA Note: nan\n\nInstalled TSP: GMONSTAR\n\nTransmitting TSP: GMONSTAR\n\nIn-Service Date: 1241028\n\nProfile ID: 11981\n\nProfile Name: GM - System stopped reporting and needs troubleshooting (NOT BLUETOOTH)\n\nService Email: Dana.Nettles@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 40047296682007,
+      "comment": {
+        "body": "Vin: 54DC4W1D0MS202591\n\nUnit: 487865\n\nSR: 17044759\n\nDistrict: 4612\n\nRO: 342970\n\nSN#: gptbhrap6sv\n\nTech Note: LOOK AT THE JOB INSTRUCTIONS, AS THEY HAVE BEEN RECENTLY UPDATED. MAKE SURE YOU ARE WORKING ON THE GEOTAB TELEMATIC DEVICE AND NOT THE NEXIQ ELD. RECORD THE DEVICE SERIAL NUMBER BELOW. REGISTER NEW IN_x0000_\n\nVDA Note: nan\n\nInstalled TSP: GEOTAB\n\nTransmitting TSP: GEOTAB\n\nIn-Service Date: 1210625\n\nProfile ID: 9215\n\nProfile Name: Geotab - Telematic needs troubleshooting (NOT BLUETOOTH)\n\nService Email: service4612@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 33350822486551,
+      "comment": {
+        "body": "Vin: 54DC4W1D4MS204232\n\nUnit: 487942\n\nSR: 17175110\n\nDistrict: 597\n\nRO: 315899\n\nSN#: GAXZ88V4Y4AX\n\nTech Note: LOOK AT THE JOB INSTRUCTIONS, AS THEY HAVE BEEN RECENTLY UPDATED. MAKE SURE YOU ARE WORKING ON THE GEOTAB TELEMATIC DEVICE AND NOT THE NEXIQ ELD. RECORD THE DEVICE SERIAL NUMBER BELOW. REGISTER NEW IN_x0000_\n\nVDA Note: PART REQ                                                                                                                                                                                                _x0000_\n\nInstalled TSP: GEOTAB\n\nTransmitting TSP: GEOTAB\n\nIn-Service Date: 1210920\n\nProfile ID: 9215\n\nProfile Name: Geotab - Telematic needs troubleshooting (NOT BLUETOOTH)\n\nService Email: service0597@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 18369332204055,
+      "comment": {
+        "body": "Vin: 3HAEUMML2SL569942\n\nUnit: 500003\n\nSR: 18128859\n\nDistrict: 7231\n\nRO: 677808\n\nSN#: nan\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: -\n\nTransmitting TSP: -\n\nIn-Service Date: 1241209\n\nProfile ID: 12330\n\nProfile Name: International - Activation Test Drive\n\nService Email: service7231@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 18369332204055,
+      "comment": {
+        "body": "Vin: 1FTBR1X81NKA27817\n\nUnit: 584522\n\nSR: 18128904\n\nDistrict: 6287\n\nRO: 115122\n\nSN#: nan\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: FORD\n\nTransmitting TSP: FORD\n\nIn-Service Date: 1220906\n\nProfile ID: 12028\n\nProfile Name: Ford - Telematics\n\nService Email: jonathan.osborne@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 40047296682007,
+      "comment": {
+        "body": "Vin: 4V4NC9EH2PN330062\n\nUnit: 585347\n\nSR: 17321170\n\nDistrict: 6218\n\nRO: 418248\n\nSN#: 22107306\n\nTech Note: nan\n\nVDA Note: NO DEFECT FOUND. ALL SYSTEMS WORKING PROPERLY AND CONNECTING TO CENTRAL SYSTEMS. PICTURES OF TESTS AND LOCATION ATTACHED TO RO                                                                          _x0000_\n\nInstalled TSP: VOLVO2\n\nTransmitting TSP: PEOPLENET\n\nIn-Service Date: 1220610\n\nProfile ID: 9377\n\nProfile Name: VOLVO - System stopped reporting and needs troubleshooting (NOT BLUETOOTH)\n\nService Email: Service6218@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 40047296682007,
+      "comment": {
+        "body": "Vin: 1FTBR1X84NKA23437\n\nUnit: 9101490\n\nSR: 17858963\n\nDistrict: 4611\n\nRO: 375392\n\nSN#: nan\n\nTech Note: nan\n\nVDA Note: nan\n\nInstalled TSP: FORD\n\nTransmitting TSP: -\n\nIn-Service Date: 1220430\n\nProfile ID: 11024\n\nProfile Name: Ford - CSS Settings (Privacy Mode)\n\nService Email: Service4611@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 32531000591127,
+      "comment": {
+        "body": "Vin: 3HAEUMML9PL107952\n\nUnit: 92604611\n\nSR: 18033948\n\nDistrict: 592\n\nRO: 366806\n\nSN#: GA2NPPV0X30B\n\nTech Note: LOOK AT THE JOB INSTRUCTIONS, AS THEY HAVE BEEN RECENTLY UPDATED. MAKE SURE YOU ARE WORKING ON THE GEOTAB TELEMATIC DEVICE AND NOT THE NEXIQ ELD. RECORD THE DEVICE SERIAL NUMBER BELOW. REGISTER NEW IN_x0000_\n\nVDA Note: GEOTAB MISSING. WE HAVE GEOTAB. BUT NO ADAPTER FROM 9 PIN TO OBD-LL. ORDERED ADAPTER. BILL F                                                                                                            _x0000_\n\nInstalled TSP: GEOTAB\n\nTransmitting TSP: GEOTAB\n\nIn-Service Date: 1221111\n\nProfile ID: 9215\n\nProfile Name: Geotab - Telematic needs troubleshooting (NOT BLUETOOTH)\n\nService Email: Service0592@penske.com\n\n"
+      }
+    }
+  ]
+}

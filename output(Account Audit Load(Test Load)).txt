@@ -1,0 +1,13 @@
+{
+  "tickets": [
+    {
+      "subject": "Customer Audit Ticket Upload",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "assignee_id": 32531000591127,
+      "comment": {
+        "body": "Transmitting TSP: CORETEX\n\nCustomer Number: 603015\n\nProject ID: 637678\n\nUnits: 2\n\nMatcher: CORETEX603015\n\nEnrolled: Null\n\nStatus: Null\n\nCEM ID: Null\n\nCEM Cust Num: Null\n\nCEM Stat: Null\n\nCEM Polling: Null\n\nCEM Group: Null"
+      }
+    }
+  ]
+}

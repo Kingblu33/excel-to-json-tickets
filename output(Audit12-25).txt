@@ -1,0 +1,28 @@
+{
+  "tickets": [
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 18369332204055,
+      "comment": {
+        "body": "Vin: 54DC4W1DXRS203903\n\nUnit: 247552\n\nSR: 13569338\n\nDistrict: 5811\n\nRO: 413733\n\nSN#: G82120FAF20D\n\nTech Note: LOOK AT THE JOB INSTRUCTIONS, AS THEY HAVE BEEN RECENTLY UPDATED. MAKE SURE YOU ARE WORKING ON THE GEOTAB TELEMATIC DEVICE AND NOT THE NEXIQ ELD. RECORD THE DEVICE SERIAL NUMBER BELOW. REGISTER NEW INSTALLS OR ORDER DEVICES AT INSTALL.ASSUREDTELEMATICS.COM/PENSKE/  SERIAL NUMBER (STARTS WITH G):\n\nVDA Note: nan\n\nInstalled TSP: -\n\nTransmitting TSP: GEOTAB\n\nIn-Service Date: 1230928\n\nProfile ID: 12329\n\nProfile Name: Geotab - Telematic needs troubleshooting (NOT BLUETOOTH)\n\nService Email: Tony.Hilton@penske.com\n\n"
+      }
+    },
+    {
+      "subject": "Sr Audit",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "tags": [
+        "Sr_Audit"
+      ],
+      "assignee_id": 32531000591127,
+      "comment": {
+        "body": "Vin: 1HTKHPVK3PH625916\n\nUnit: 263586\n\nSR: 12789123\n\nDistrict: 94\n\nRO: 365872\n\nSN#: gae4mzbuzzwn\n\nTech Note: LOOK AT THE JOB INSTRUCTIONS, AS THEY HAVE BEEN RECENTLY UPDATED. MAKE SURE YOU ARE WORKING ON THE GEOTAB TELEMATIC DEVICE AND NOT THE NEXIQ ELD. RECORD THE DEVICE SERIAL NUMBER BELOW. REGISTER NEW INSTALLS OR ORDER DEVICES AT INSTALL.ASSUREDTELEMATICS.COM/PENSKE/  SERIAL NUMBER (STARTS WITH G):\n\nVDA Note: nan\n\nInstalled TSP: GEOTAB\n\nTransmitting TSP: GEOTAB\n\nIn-Service Date: 1240219\n\nProfile ID: 12329\n\nProfile Name: Geotab - Telematic needs troubleshooting (NOT BLUETOOTH)\n\nService Email: Steve.Bradford@penske.com\n\n"
+      }
+    }
+  ]
+}

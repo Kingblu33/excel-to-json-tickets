@@ -1,0 +1,58 @@
+{
+  "tickets": [
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0201-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0201-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n323221, 323226, 323284, 323338, 329619, 330349, 330351, 330527, 330743, 330791, 333988, 335116, 335119, 335134, 335367, 336988, 337074, 345666, 345846, 346135, 346178, 352982, 352999, 353092, 353176, 353177, 353685, 353697, 353724, 353789, 371380, 371381, 373677, 377280, 383024, 388241, 388413, 388425, 388466, 388536, 388565, 391873, 402437, 402506, 402642, 402791, 408371, 409121, 413230, 413234, 414230, 416523, 417973, 421313, 426014, 430767, 430791, 437556, 455828, 455829, 455830, 455831, 455832, 459038, 460360, 460554, 464515, 466101, 470030, 503957, 503958, 518576, 518580, 539278, 552139, 556049, 601943, 613490, 616891, 634229, 637532, 650063, 652127, 652132, 652192, 652284, 654855, 654946, 657273, 664104, 664115, 694652, 694696, 694760, 7330255, 7330285, 7330356, 7330531, 7416825, 7420425, 7426901, 7473475, 7630367, 7630461, 7631443, 7631533, 7631648, 7631651, 7631739, 7631766, 7648238, 7831088, 7831229, 7832076, 7832085, 7832105, 7832193\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0437-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0437-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n4253, 71658, 106578, 106582, 106644, 109951, 109967, 110246, 110277, 110543, 117959, 118044, 118055, 123868, 124067, 124119, 124301, 124311, 124320, 124438, 125159, 146308, 146322, 146457, 146472, 147038, 161076, 161266, 167425, 170915, 175028, 175033, 176501, 176502, 176513, 176524, 179524, 185392, 185403, 190252, 190264, 193658, 195847, 208571, 211611, 211620, 211647, 211685, 234945, 243536, 243617, 244471, 244483, 248601, 249232, 253383, 255415, 260714, 263552, 269713, 271205, 273631, 273634, 273635, 273636, 278691, 280664, 287191, 287192, 287193, 287195, 287196, 287200, 287202, 287203, 288929, 299410, 300771, 300780, 305551, 305552, 308223, 309251, 309265, 317850, 318012, 318204, 318249, 318312, 322274\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    }
+  ]
+}

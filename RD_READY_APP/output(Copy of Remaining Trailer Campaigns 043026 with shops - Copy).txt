@@ -1,0 +1,1570 @@
+{
+  "tickets": [
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0328-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0328-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n305551, 305552, 353697, 416523\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Brian.McCort@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0473-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0473-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n353789\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Ethan.Woodruff@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0752-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0752-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n106644\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Hector.Carrillo@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 7770-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 7770-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n243617, 455828, 455829, 455830, 455831, 455832\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Jason.Belongia@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 7165-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 7165-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n273631, 273634, 273635, 273636, 437556\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "John.Dewilde@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 5484-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 5484-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n413230, 413234, 414230\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "John.Mertens@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 7188-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 7188-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n193658, 322274\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Keith.Lee@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 5679-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 5679-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n161266, 299410, 300771, 402642\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Nicholas.Llanas@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0437-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0437-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n4253, 208571, 329619, 330349, 330351, 373677\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Randy.Wertz@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0136-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0136-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n353724\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Rebecca.Forma@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 7435-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 7435-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n337074\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Reuben.McVey@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0550-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0550-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n388425\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Richard.Ammann@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 4817-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 4817-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n318249\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Richard.Stroud@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0198-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0198-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n190252, 323338, 330791\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Russell.Mills@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0224-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0224-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n464515, 7330255, 7330285, 7330356, 7330531, 7416825, 7420425, 7426901, 7473475, 7630367, 7630461, 7631443, 7631533, 7631766, 7648238\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Sean.Suwalski@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0019-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0019-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n110543, 125159, 147038, 161076\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service0019@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0116-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0116-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n118044, 118055, 146457, 345846, 388536, 694652\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service0116@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0165-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0165-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n556049, 613490\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service0165@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0329-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0329-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n402437\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service0329@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0397-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0397-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n124438, 175033, 234945, 260714, 263552, 271205, 278691, 280664, 318204, 330527, 335367, 383024, 652284, 657273\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service0397@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0436-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0436-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n309265\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service0436@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0464-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0464-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n417973\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service0464@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0465-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0465-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n460554\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service0465@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0756-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0756-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n503957, 503958\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service0756@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 4835-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 4835-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n616891, 637532, 694760\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service4835@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 5283-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 5283-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n167425\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service5283@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6218-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6218-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n170915, 694696\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service6218@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6516-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6516-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n109951, 211647, 388565\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service6516@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6517-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6517-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n430767\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service6517@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6536-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6536-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n185392\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "Service6536@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0030-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0030-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n518576, 518580, 664104, 664115\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "adrian.powell@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6134-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6134-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n650063\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "alanis.macias@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6362-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6362-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n249232, 253383, 255415, 300780, 308223, 402791, 408371, 409121, 426014, 459038\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "albert.aughenbaugh@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0591-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0591-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n430791\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "allen.mazur@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6736-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6736-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n269713\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "dan.stacey@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 7185-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 7185-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n333988, 335116, 335119, 335134, 377280\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "darryl.moore@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6511-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6511-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n106582, 211611\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "david.sanvicente@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0887-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0887-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n371380, 371381\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "doru.zaharuk@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6747-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6747-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n176501, 176502, 176513, 176524\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "james.terry@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6739-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6739-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n388413, 391873, 421313, 552139\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "kelsey.ginther@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 7615-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 7615-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n345666\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "santiago.banuelos@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6528-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6528-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n309251\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "scott.crafts@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0071-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0071-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n123868, 323284\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0071@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0089-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0089-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n146472\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0089@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0134-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0134-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n601943\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0134@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0201-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0201-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n110277, 323221\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0201@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0216-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0216-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n124301, 146308\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0216@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0254-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0254-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n109967, 110246, 117959, 124311, 195847, 654855\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0254@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0446-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0446-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n243536, 346135, 539278, 634229, 652192, 654946\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0446@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0587-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0587-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n124320, 185403, 211685, 346178\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0587@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0664-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0664-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n179524\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0664@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 0899-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 0899-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n318012, 402506\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service0899@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6143-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6143-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n353176, 353177, 460360\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service6143@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6533-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6533-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n211620, 388466\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service6533@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 7162-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 7162-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n317850, 318312, 388241\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service7162@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 7231-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 7231-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n71658, 106578, 124067, 244483\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service7231@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 7336-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 7336-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n330743\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "service7336@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    },
+    {
+      "subject": "Reminder: OTH RDREADY5 Device Installation Needed 6360-10",
+      "priority": "normal",
+      "group_id": 22431148342167,
+      "requester": {
+        "email": "Jonathan.Brein@penske.com",
+        "action": "put"
+      },
+      "comment": {
+        "body": "Dear Shop 6360-10,\n\nWe recently sent [one / multiple] device(s) to your shop as part of the OTH RDREADY5 campaign for trailer(s):\n\n287192, 287193, 287195, 287196, 287200, 287202, 287203, 288929, 466101, 7631648, 7631651, 7631739, 7831088, 7831229, 7832076, 7832085, 7832105, 7832193\n\nWe\u2019re reaching out to ask that the device(s) be installed and connected as soon as possible so we can ensure proper connectivity and reporting.\n\nIf the installation has already been completed, thank you, and please feel free to ignore this message. Otherwise, let us know if you need any assistance.\n\nWe appreciate your help and cooperation.\n\nThank you,\n\nJon\n\nSr. Onboard Connectivity Specialist/Digital Experience",
+        "public": true
+      },
+      "email_ccs": [
+        {
+          "user_email": "tristen.legaspi@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Jonathan.Brein@penske.com",
+          "action": "put"
+        },
+        {
+          "user_email": "Demmar.allen@penske.com",
+          "action": "put"
+        }
+      ]
+    }
+  ]
+}
